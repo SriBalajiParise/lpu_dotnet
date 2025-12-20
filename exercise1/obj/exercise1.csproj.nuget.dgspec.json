@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\training\\practise\\exercise1\\exercise1.csproj": {}
+    "E:\\training\\practice\\exercise1\\exercise1.csproj": {}
   },
   "projects": {
-    "E:\\training\\practise\\exercise1\\exercise1.csproj": {
+    "E:\\training\\practice\\exercise1\\exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\training\\practise\\exercise1\\exercise1.csproj",
+        "projectUniqueName": "E:\\training\\practice\\exercise1\\exercise1.csproj",
         "projectName": "exercise1",
-        "projectPath": "E:\\training\\practise\\exercise1\\exercise1.csproj",
+        "projectPath": "E:\\training\\practice\\exercise1\\exercise1.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\training\\practise\\exercise1\\obj\\",
+        "outputPath": "E:\\training\\practice\\exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
