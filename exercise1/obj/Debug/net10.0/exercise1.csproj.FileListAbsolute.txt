@@ -1,0 +1,14 @@
+e:\training\practise\exercise1\bin\Debug\net10.0\exercise1.exe
+e:\training\practise\exercise1\bin\Debug\net10.0\exercise1.deps.json
+e:\training\practise\exercise1\bin\Debug\net10.0\exercise1.runtimeconfig.json
+e:\training\practise\exercise1\bin\Debug\net10.0\exercise1.dll
+e:\training\practise\exercise1\bin\Debug\net10.0\exercise1.pdb
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.AssemblyInfoInputs.cache
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.AssemblyInfo.cs
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.csproj.CoreCompileInputs.cache
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.dll
+e:\training\practise\exercise1\obj\Debug\net10.0\refint\exercise1.dll
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.pdb
+e:\training\practise\exercise1\obj\Debug\net10.0\exercise1.genruntimeconfig.cache
+e:\training\practise\exercise1\obj\Debug\net10.0\ref\exercise1.dll
