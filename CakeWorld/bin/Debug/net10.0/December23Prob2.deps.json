@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "December23Prob2/1.0.0": {
+        "runtime": {
+          "December23Prob2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "December23Prob2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

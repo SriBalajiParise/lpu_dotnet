@@ -1,0 +1,14 @@
+E:\training\December23Prob\bin\Debug\net10.0\December23Prob.exe
+E:\training\December23Prob\bin\Debug\net10.0\December23Prob.deps.json
+E:\training\December23Prob\bin\Debug\net10.0\December23Prob.runtimeconfig.json
+E:\training\December23Prob\bin\Debug\net10.0\December23Prob.dll
+E:\training\December23Prob\bin\Debug\net10.0\December23Prob.pdb
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.AssemblyInfoInputs.cache
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.AssemblyInfo.cs
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.csproj.CoreCompileInputs.cache
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.dll
+E:\training\December23Prob\obj\Debug\net10.0\refint\December23Prob.dll
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.pdb
+E:\training\December23Prob\obj\Debug\net10.0\December23Prob.genruntimeconfig.cache
+E:\training\December23Prob\obj\Debug\net10.0\ref\December23Prob.dll
