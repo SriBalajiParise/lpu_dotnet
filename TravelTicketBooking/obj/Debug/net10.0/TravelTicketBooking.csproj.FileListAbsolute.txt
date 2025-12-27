@@ -1,0 +1,15 @@
+E:\training\practice\TravelTicketBooking\bin\Debug\net10.0\TravelTicketBooking.exe
+E:\training\practice\TravelTicketBooking\bin\Debug\net10.0\TravelTicketBooking.deps.json
+E:\training\practice\TravelTicketBooking\bin\Debug\net10.0\TravelTicketBooking.runtimeconfig.json
+E:\training\practice\TravelTicketBooking\bin\Debug\net10.0\TravelTicketBooking.dll
+E:\training\practice\TravelTicketBooking\bin\Debug\net10.0\TravelTicketBooking.pdb
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.AssemblyInfoInputs.cache
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.AssemblyInfo.cs
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.csproj.CoreCompileInputs.cache
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.sourcelink.json
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.dll
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\refint\TravelTicketBooking.dll
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.pdb
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\TravelTicketBooking.genruntimeconfig.cache
+E:\training\practice\TravelTicketBooking\obj\Debug\net10.0\ref\TravelTicketBooking.dll
