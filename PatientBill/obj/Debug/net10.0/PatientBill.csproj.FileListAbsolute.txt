@@ -1,0 +1,14 @@
+E:\training\PatientBill\bin\Debug\net10.0\PatientBill.exe
+E:\training\PatientBill\bin\Debug\net10.0\PatientBill.deps.json
+E:\training\PatientBill\bin\Debug\net10.0\PatientBill.runtimeconfig.json
+E:\training\PatientBill\bin\Debug\net10.0\PatientBill.dll
+E:\training\PatientBill\bin\Debug\net10.0\PatientBill.pdb
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.AssemblyInfoInputs.cache
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.AssemblyInfo.cs
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.csproj.CoreCompileInputs.cache
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.dll
+E:\training\PatientBill\obj\Debug\net10.0\refint\PatientBill.dll
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.pdb
+E:\training\PatientBill\obj\Debug\net10.0\PatientBill.genruntimeconfig.cache
+E:\training\PatientBill\obj\Debug\net10.0\ref\PatientBill.dll
