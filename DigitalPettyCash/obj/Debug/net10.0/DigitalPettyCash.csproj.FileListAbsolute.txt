@@ -1,0 +1,15 @@
+E:\training\practice\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.exe
+E:\training\practice\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.deps.json
+E:\training\practice\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.runtimeconfig.json
+E:\training\practice\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.dll
+E:\training\practice\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.pdb
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.AssemblyInfoInputs.cache
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.AssemblyInfo.cs
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.csproj.CoreCompileInputs.cache
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.sourcelink.json
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.dll
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\refint\DigitalPettyCash.dll
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.pdb
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.genruntimeconfig.cache
+E:\training\practice\DigitalPettyCash\obj\Debug\net10.0\ref\DigitalPettyCash.dll
