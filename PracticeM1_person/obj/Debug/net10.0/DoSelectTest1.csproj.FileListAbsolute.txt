@@ -1,0 +1,14 @@
+E:\training\DoSelectTest1\bin\Debug\net10.0\DoSelectTest1.exe
+E:\training\DoSelectTest1\bin\Debug\net10.0\DoSelectTest1.deps.json
+E:\training\DoSelectTest1\bin\Debug\net10.0\DoSelectTest1.runtimeconfig.json
+E:\training\DoSelectTest1\bin\Debug\net10.0\DoSelectTest1.dll
+E:\training\DoSelectTest1\bin\Debug\net10.0\DoSelectTest1.pdb
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.AssemblyInfoInputs.cache
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.AssemblyInfo.cs
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.csproj.CoreCompileInputs.cache
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.dll
+E:\training\DoSelectTest1\obj\Debug\net10.0\refint\DoSelectTest1.dll
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.pdb
+E:\training\DoSelectTest1\obj\Debug\net10.0\DoSelectTest1.genruntimeconfig.cache
+E:\training\DoSelectTest1\obj\Debug\net10.0\ref\DoSelectTest1.dll
