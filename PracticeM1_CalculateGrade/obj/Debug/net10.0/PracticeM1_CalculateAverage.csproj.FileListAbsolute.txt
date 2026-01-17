@@ -1,0 +1,14 @@
+E:\training\PracticeM1_CalculateGrade\bin\Debug\net10.0\PracticeM1_CalculateAverage.exe
+E:\training\PracticeM1_CalculateGrade\bin\Debug\net10.0\PracticeM1_CalculateAverage.deps.json
+E:\training\PracticeM1_CalculateGrade\bin\Debug\net10.0\PracticeM1_CalculateAverage.runtimeconfig.json
+E:\training\PracticeM1_CalculateGrade\bin\Debug\net10.0\PracticeM1_CalculateAverage.dll
+E:\training\PracticeM1_CalculateGrade\bin\Debug\net10.0\PracticeM1_CalculateAverage.pdb
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.AssemblyInfoInputs.cache
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.AssemblyInfo.cs
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.csproj.CoreCompileInputs.cache
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.dll
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\refint\PracticeM1_CalculateAverage.dll
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.pdb
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\PracticeM1_CalculateAverage.genruntimeconfig.cache
+E:\training\PracticeM1_CalculateGrade\obj\Debug\net10.0\ref\PracticeM1_CalculateAverage.dll
