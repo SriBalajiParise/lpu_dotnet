@@ -1,0 +1,14 @@
+E:\training\KathaProblem\bin\Debug\net10.0\KathaProblem.exe
+E:\training\KathaProblem\bin\Debug\net10.0\KathaProblem.deps.json
+E:\training\KathaProblem\bin\Debug\net10.0\KathaProblem.runtimeconfig.json
+E:\training\KathaProblem\bin\Debug\net10.0\KathaProblem.dll
+E:\training\KathaProblem\bin\Debug\net10.0\KathaProblem.pdb
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.AssemblyInfoInputs.cache
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.AssemblyInfo.cs
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.csproj.CoreCompileInputs.cache
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.dll
+E:\training\KathaProblem\obj\Debug\net10.0\refint\KathaProblem.dll
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.pdb
+E:\training\KathaProblem\obj\Debug\net10.0\KathaProblem.genruntimeconfig.cache
+E:\training\KathaProblem\obj\Debug\net10.0\ref\KathaProblem.dll
