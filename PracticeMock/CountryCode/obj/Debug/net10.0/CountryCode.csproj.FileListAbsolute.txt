@@ -1,0 +1,14 @@
+E:\training\PracticeMock\CountryCode\bin\Debug\net10.0\CountryCode.exe
+E:\training\PracticeMock\CountryCode\bin\Debug\net10.0\CountryCode.deps.json
+E:\training\PracticeMock\CountryCode\bin\Debug\net10.0\CountryCode.runtimeconfig.json
+E:\training\PracticeMock\CountryCode\bin\Debug\net10.0\CountryCode.dll
+E:\training\PracticeMock\CountryCode\bin\Debug\net10.0\CountryCode.pdb
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.AssemblyInfoInputs.cache
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.AssemblyInfo.cs
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.dll
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\refint\CountryCode.dll
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.pdb
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\CountryCode.genruntimeconfig.cache
+E:\training\PracticeMock\CountryCode\obj\Debug\net10.0\ref\CountryCode.dll

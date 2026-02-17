@@ -1,0 +1,14 @@
+E:\training\PracticeMock\LoginAttemptTracker\bin\Debug\net10.0\LoginAttemptTracker.exe
+E:\training\PracticeMock\LoginAttemptTracker\bin\Debug\net10.0\LoginAttemptTracker.deps.json
+E:\training\PracticeMock\LoginAttemptTracker\bin\Debug\net10.0\LoginAttemptTracker.runtimeconfig.json
+E:\training\PracticeMock\LoginAttemptTracker\bin\Debug\net10.0\LoginAttemptTracker.dll
+E:\training\PracticeMock\LoginAttemptTracker\bin\Debug\net10.0\LoginAttemptTracker.pdb
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.AssemblyInfoInputs.cache
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.AssemblyInfo.cs
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.dll
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\refint\LoginAttemptTracker.dll
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.pdb
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\LoginAttemptTracker.genruntimeconfig.cache
+E:\training\PracticeMock\LoginAttemptTracker\obj\Debug\net10.0\ref\LoginAttemptTracker.dll

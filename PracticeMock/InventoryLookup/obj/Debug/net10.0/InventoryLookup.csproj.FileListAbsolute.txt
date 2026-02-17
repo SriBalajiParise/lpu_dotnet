@@ -1,0 +1,14 @@
+E:\training\PracticeMock\InventoryLookup\bin\Debug\net10.0\InventoryLookup.exe
+E:\training\PracticeMock\InventoryLookup\bin\Debug\net10.0\InventoryLookup.deps.json
+E:\training\PracticeMock\InventoryLookup\bin\Debug\net10.0\InventoryLookup.runtimeconfig.json
+E:\training\PracticeMock\InventoryLookup\bin\Debug\net10.0\InventoryLookup.dll
+E:\training\PracticeMock\InventoryLookup\bin\Debug\net10.0\InventoryLookup.pdb
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.AssemblyInfoInputs.cache
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.AssemblyInfo.cs
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.dll
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\refint\InventoryLookup.dll
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.pdb
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\InventoryLookup.genruntimeconfig.cache
+E:\training\PracticeMock\InventoryLookup\obj\Debug\net10.0\ref\InventoryLookup.dll

@@ -1,0 +1,14 @@
+E:\training\HospitalPatientManagementSystem\bin\Debug\net10.0\HospitalPatientManagementSystem.exe
+E:\training\HospitalPatientManagementSystem\bin\Debug\net10.0\HospitalPatientManagementSystem.deps.json
+E:\training\HospitalPatientManagementSystem\bin\Debug\net10.0\HospitalPatientManagementSystem.runtimeconfig.json
+E:\training\HospitalPatientManagementSystem\bin\Debug\net10.0\HospitalPatientManagementSystem.dll
+E:\training\HospitalPatientManagementSystem\bin\Debug\net10.0\HospitalPatientManagementSystem.pdb
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.AssemblyInfoInputs.cache
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.AssemblyInfo.cs
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.csproj.CoreCompileInputs.cache
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.dll
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\refint\HospitalPatientManagementSystem.dll
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.pdb
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\HospitalPatientManagementSystem.genruntimeconfig.cache
+E:\training\HospitalPatientManagementSystem\obj\Debug\net10.0\ref\HospitalPatientManagementSystem.dll

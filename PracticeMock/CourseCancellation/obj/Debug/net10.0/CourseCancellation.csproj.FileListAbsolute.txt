@@ -1,0 +1,14 @@
+E:\training\PracticeMock\CourseCancellation\bin\Debug\net10.0\CourseCancellation.exe
+E:\training\PracticeMock\CourseCancellation\bin\Debug\net10.0\CourseCancellation.deps.json
+E:\training\PracticeMock\CourseCancellation\bin\Debug\net10.0\CourseCancellation.runtimeconfig.json
+E:\training\PracticeMock\CourseCancellation\bin\Debug\net10.0\CourseCancellation.dll
+E:\training\PracticeMock\CourseCancellation\bin\Debug\net10.0\CourseCancellation.pdb
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.AssemblyInfoInputs.cache
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.AssemblyInfo.cs
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.dll
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\refint\CourseCancellation.dll
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.pdb
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\CourseCancellation.genruntimeconfig.cache
+E:\training\PracticeMock\CourseCancellation\obj\Debug\net10.0\ref\CourseCancellation.dll

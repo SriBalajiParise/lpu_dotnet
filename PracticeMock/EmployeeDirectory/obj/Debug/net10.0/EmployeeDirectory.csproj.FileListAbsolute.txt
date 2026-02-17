@@ -1,0 +1,14 @@
+E:\training\PracticeMock\EmployeeDirectory\bin\Debug\net10.0\EmployeeDirectory.exe
+E:\training\PracticeMock\EmployeeDirectory\bin\Debug\net10.0\EmployeeDirectory.deps.json
+E:\training\PracticeMock\EmployeeDirectory\bin\Debug\net10.0\EmployeeDirectory.runtimeconfig.json
+E:\training\PracticeMock\EmployeeDirectory\bin\Debug\net10.0\EmployeeDirectory.dll
+E:\training\PracticeMock\EmployeeDirectory\bin\Debug\net10.0\EmployeeDirectory.pdb
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.AssemblyInfoInputs.cache
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.AssemblyInfo.cs
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.dll
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\refint\EmployeeDirectory.dll
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.pdb
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\EmployeeDirectory.genruntimeconfig.cache
+E:\training\PracticeMock\EmployeeDirectory\obj\Debug\net10.0\ref\EmployeeDirectory.dll

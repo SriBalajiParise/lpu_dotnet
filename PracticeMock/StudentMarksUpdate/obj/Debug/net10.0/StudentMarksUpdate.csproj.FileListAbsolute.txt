@@ -1,0 +1,14 @@
+E:\training\PracticeMock\StudentMarksUpdate\bin\Debug\net10.0\StudentMarksUpdate.exe
+E:\training\PracticeMock\StudentMarksUpdate\bin\Debug\net10.0\StudentMarksUpdate.deps.json
+E:\training\PracticeMock\StudentMarksUpdate\bin\Debug\net10.0\StudentMarksUpdate.runtimeconfig.json
+E:\training\PracticeMock\StudentMarksUpdate\bin\Debug\net10.0\StudentMarksUpdate.dll
+E:\training\PracticeMock\StudentMarksUpdate\bin\Debug\net10.0\StudentMarksUpdate.pdb
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.AssemblyInfoInputs.cache
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.AssemblyInfo.cs
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.dll
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\refint\StudentMarksUpdate.dll
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.pdb
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\StudentMarksUpdate.genruntimeconfig.cache
+E:\training\PracticeMock\StudentMarksUpdate\obj\Debug\net10.0\ref\StudentMarksUpdate.dll

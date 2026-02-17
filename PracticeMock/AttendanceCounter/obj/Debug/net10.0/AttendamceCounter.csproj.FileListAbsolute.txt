@@ -1,0 +1,14 @@
+E:\training\PracticeMock\AttendanceCounter\bin\Debug\net10.0\AttendamceCounter.exe
+E:\training\PracticeMock\AttendanceCounter\bin\Debug\net10.0\AttendamceCounter.deps.json
+E:\training\PracticeMock\AttendanceCounter\bin\Debug\net10.0\AttendamceCounter.runtimeconfig.json
+E:\training\PracticeMock\AttendanceCounter\bin\Debug\net10.0\AttendamceCounter.dll
+E:\training\PracticeMock\AttendanceCounter\bin\Debug\net10.0\AttendamceCounter.pdb
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.AssemblyInfoInputs.cache
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.AssemblyInfo.cs
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.csproj.CoreCompileInputs.cache
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.dll
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\refint\AttendamceCounter.dll
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.pdb
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\AttendamceCounter.genruntimeconfig.cache
+E:\training\PracticeMock\AttendanceCounter\obj\Debug\net10.0\ref\AttendamceCounter.dll
