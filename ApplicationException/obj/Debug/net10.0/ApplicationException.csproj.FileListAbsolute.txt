@@ -1,0 +1,15 @@
+E:\training\practice\ApplicationException\bin\Debug\net10.0\ApplicationException.exe
+E:\training\practice\ApplicationException\bin\Debug\net10.0\ApplicationException.deps.json
+E:\training\practice\ApplicationException\bin\Debug\net10.0\ApplicationException.runtimeconfig.json
+E:\training\practice\ApplicationException\bin\Debug\net10.0\ApplicationException.dll
+E:\training\practice\ApplicationException\bin\Debug\net10.0\ApplicationException.pdb
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.AssemblyInfoInputs.cache
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.AssemblyInfo.cs
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.csproj.CoreCompileInputs.cache
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.sourcelink.json
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.dll
+E:\training\practice\ApplicationException\obj\Debug\net10.0\refint\ApplicationException.dll
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.pdb
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ApplicationException.genruntimeconfig.cache
+E:\training\practice\ApplicationException\obj\Debug\net10.0\ref\ApplicationException.dll
