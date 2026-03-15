@@ -1,0 +1,15 @@
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfoInputs.cache
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfo.cs
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.csproj.CoreCompileInputs.cache
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.sourcelink.json
+E:\training\practice\UserAuthentication\bin\Debug\net10.0\UserAuthentication.exe
+E:\training\practice\UserAuthentication\bin\Debug\net10.0\UserAuthentication.deps.json
+E:\training\practice\UserAuthentication\bin\Debug\net10.0\UserAuthentication.runtimeconfig.json
+E:\training\practice\UserAuthentication\bin\Debug\net10.0\UserAuthentication.dll
+E:\training\practice\UserAuthentication\bin\Debug\net10.0\UserAuthentication.pdb
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.dll
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\refint\UserAuthentication.dll
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.pdb
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\UserAuthentication.genruntimeconfig.cache
+E:\training\practice\UserAuthentication\obj\Debug\net10.0\ref\UserAuthentication.dll

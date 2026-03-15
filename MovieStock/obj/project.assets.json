@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\training\\PracticeMock\\MovieStock\\MovieStock.csproj",
+      "projectUniqueName": "E:\\training\\practice\\MovieStock\\MovieStock.csproj",
       "projectName": "MovieStock",
-      "projectPath": "E:\\training\\PracticeMock\\MovieStock\\MovieStock.csproj",
+      "projectPath": "E:\\training\\practice\\MovieStock\\MovieStock.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\training\\PracticeMock\\MovieStock\\obj\\",
+      "outputPath": "E:\\training\\practice\\MovieStock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

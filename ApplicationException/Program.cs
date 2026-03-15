@@ -8,23 +8,19 @@ class Program
         try
         {
             Ecommerce obj = new Ecommerce("John",250,350);
-
-       
-
-        obj.MakePayment(obj.UserName, obj.WalletBalance, obj.TotalPurchaseAmount);
+            obj.MakePayment(obj.UserName, obj.WalletBalance, obj.TotalPurchaseAmount);
         }
+
 
         catch(InsufficientWalletBalanceException ex)
         {
             Console.WriteLine(ex.Message);
         }
 
+
         catch(Exception ex)
         {
             Console.WriteLine("An error occurred: " + ex.Message);
-
         }
-        
-
     }
 }

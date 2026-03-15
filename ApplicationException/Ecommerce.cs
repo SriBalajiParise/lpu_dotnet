@@ -1,7 +1,5 @@
 using System;
-
 namespace ApplicationException;
-
 public class Ecommerce
 {
     public string UserName{get;set;}
@@ -14,12 +12,10 @@ public class Ecommerce
         WalletBalance = balance;
         TotalPurchaseAmount = amount;
     }
-
     public void MakePayment(string name, double balance, double amount)
     {
         if(balance > amount){
             Console.WriteLine("Payment Successful");
-            
         }
         else
         {
@@ -27,13 +23,11 @@ public class Ecommerce
         }
     }
 }
-
 public class InsufficientWalletBalanceException : Exception
 {
     public InsufficientWalletBalanceException(string message) : base(message)
     {
-    }
-   
+    } 
 }
 
 

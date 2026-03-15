@@ -1,0 +1,50 @@
+﻿@model IEnumerable<StudentManagementSystem.Models.Student>
+
+<h2>Student List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add Student</a>
+</p>
+
+<table class="table table-bordered table-striped">
+
+    ```
+    <thead class="table-dark">
+        <tr>
+            <th>Student Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Department</th>
+            <th>Course</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.StudentName</td>
+                <td>@item.Email</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.Department.DepartmentName</td>
+                <td>@item.Course.CourseName</td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.StudentId" class="btn btn-warning btn-sm">Edit</a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.StudentId"
+                       class="btn btn-danger btn-sm"
+                       onclick="return confirm('Are you sure you want to delete this student?');">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+    ```
+
+</table>

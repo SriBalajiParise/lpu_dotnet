@@ -1,0 +1,15 @@
+E:\training\practice\PhoneNumberException\bin\Debug\net10.0\PhoneNumberException.exe
+E:\training\practice\PhoneNumberException\bin\Debug\net10.0\PhoneNumberException.deps.json
+E:\training\practice\PhoneNumberException\bin\Debug\net10.0\PhoneNumberException.runtimeconfig.json
+E:\training\practice\PhoneNumberException\bin\Debug\net10.0\PhoneNumberException.dll
+E:\training\practice\PhoneNumberException\bin\Debug\net10.0\PhoneNumberException.pdb
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.AssemblyInfoInputs.cache
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.AssemblyInfo.cs
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.csproj.CoreCompileInputs.cache
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.sourcelink.json
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.dll
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\refint\PhoneNumberException.dll
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.pdb
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\PhoneNumberException.genruntimeconfig.cache
+E:\training\practice\PhoneNumberException\obj\Debug\net10.0\ref\PhoneNumberException.dll

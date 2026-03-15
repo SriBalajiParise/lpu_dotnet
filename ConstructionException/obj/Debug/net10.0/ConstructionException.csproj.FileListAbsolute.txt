@@ -1,0 +1,15 @@
+E:\training\practice\ConstructionException\bin\Debug\net10.0\ConstructionException.exe
+E:\training\practice\ConstructionException\bin\Debug\net10.0\ConstructionException.deps.json
+E:\training\practice\ConstructionException\bin\Debug\net10.0\ConstructionException.runtimeconfig.json
+E:\training\practice\ConstructionException\bin\Debug\net10.0\ConstructionException.dll
+E:\training\practice\ConstructionException\bin\Debug\net10.0\ConstructionException.pdb
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.AssemblyInfoInputs.cache
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.AssemblyInfo.cs
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.csproj.CoreCompileInputs.cache
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.sourcelink.json
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.dll
+E:\training\practice\ConstructionException\obj\Debug\net10.0\refint\ConstructionException.dll
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.pdb
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ConstructionException.genruntimeconfig.cache
+E:\training\practice\ConstructionException\obj\Debug\net10.0\ref\ConstructionException.dll
